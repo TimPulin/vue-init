@@ -1,0 +1,27 @@
+// COLOR VARS
+// primary
+$color-primary: #00a0ff;
+$color-primary-shade: #0068a6;
+$color-primary-light: #e5f6fe;
+// secondary
+$color-secondary: #ff6c00;
+$color-secondary-shade: #ff5900;
+$color-secondary-light: rgb(255 108 0 / 50%);
+// third
+$color-third: #6b00ff;
+// black
+$color-smooth-black: #060606;
+$color-grey: #ccc;
+$color-grey-max-light: #eaeaea;
+$color-ant-grey: #d9d9d9;
+
+$page-background: $color-grey-max-light;
+
+// COMMON VARS
+$border-radius-basic: 10px;
+// screen
+$XXLarge-screen: 1400px;
+$XLarge-screen: 1200px;
+$large-screen: 991px;
+$medium-screen: 767px;
+$small-screen: 575px;
